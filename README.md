@@ -1,0 +1,1 @@
+# inf_2022_bazarov
