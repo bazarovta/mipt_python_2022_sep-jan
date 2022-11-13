@@ -1,0 +1,6 @@
+Рейтинг игроков
+1 maxim 8
+2 cesar 6
+3 tumen 5
+4 trello 3
+5 greg 0
