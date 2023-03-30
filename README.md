@@ -1,1 +1,1 @@
-# inf_2022_bazarov
+# mipt_python_2022_sept-jan
